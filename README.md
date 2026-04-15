@@ -29,6 +29,9 @@ I'm always looking for opportunities to learn, grow, and contribute.
 ## Currently
 
 - Studying at UPV
+- Working for Valencia in Movility Projects
+- Lovable Campus Leader at UPV
+- Project Manager and Board Member at Sigma Data Club (the biggest AI and Data Science Club at University)
 - Based in Valencia
 - Constantly learning and exploring new opportunities
 - Interested in tech, product, and community-led projects
