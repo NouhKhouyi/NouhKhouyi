@@ -30,6 +30,7 @@ I'm always looking for opportunities to learn, grow, and contribute.
 
 - Studying at UPV
 - Working for Valencia in Movility Projects
+- Currently developing a social network app called "Momentum"
 - Working in projects for the UPV Investment Club
 - Lovable Campus Leader at UPV
 - Project Manager and Board Member at Sigma Data Club (the biggest AI and Data Science Club at University)
