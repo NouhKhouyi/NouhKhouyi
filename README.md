@@ -17,23 +17,23 @@ In 2025 I received UPV's Top Academic Performance Award. I speak Spanish, Arabic
 
 ## What I'm interested in
 
-- LLMs, RAG and trustworthy AI for high-stakes decisions
-- Startups, innovation, and fast learning
-- Continuous improvement and hands-on experience
-- Community building and impact-driven initiatives
-- Collaborating with people who build cool things
+- LLMs, RAG and trustworthy AI for high-stakes decisions.
+- Startups, innovation, and fast learning.
+- Continuous improvement and hands-on experience.
+- Community building and impact-driven initiatives.
+- Collaborating with people who build cool things.
 
 ---
 
 ## Currently
 
-- AI Engineer at GPTadvisor, owning a RAG system for tier-1 banks end to end and prototyping an LLM agent for portfolio-risk management
-- Data Scientist intern at Generalitat Valenciana, building the geospatial base (GTFS, OSM, GeoPandas) for a multimodal transport network of the València metropolitan area
-- Studying an MSc in Data Science at IMT Atlantique, in the final year of my BSc in Data Science at UPV
-- Co-author of a research project on anomalous diffusion for financial regime detection (paper in preparation)
-- Project Manager and Board Member at Sigma Data Club (the biggest AI and Data Science Club in Spain)
-- Based in Valencia
-- Always open to new projects and collaborations
+- AI Engineer at GPTadvisor, owning a RAG system for tier-1 banks. Also worked on end to end and prototyping LLM agents for portfolio-risk management.
+- Data Scientist intern at Generalitat Valenciana, building the geospatial base (GTFS, OSM, GeoPandas) for a multimodal transport network of the València metropolitan area.
+- Studying an MSc in Data Science at IMT Atlantique, in the final year of my BSc in Data Science at UPV.
+- Co-author of a research project on anomalous diffusion for financial regime detection (paper in preparation).
+- Project Manager and Board Member at Sigma Data Club (the biggest AI and Data Science Club in Spain).
+- Based in Valencia.
+- Always open to new projects and collaborations.
 
 ---
 
