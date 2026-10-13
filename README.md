@@ -32,6 +32,7 @@ In 2025 I received UPV's Top Academic Performance Award. I speak Spanish, Arabic
 - Studying an MSc in Data Science at IMT Atlantique, in the final year of my BSc in Data Science at UPV.
 - Co-author of a research project on anomalous diffusion for financial regime detection (paper in preparation).
 - Project Manager and Board Member at Sigma Data Club (the biggest AI and Data Science Club in Spain).
+- Lovable Campus Leader at UPV
 - Based in Valencia.
 - Always open to new projects and collaborations.
 
